@@ -20,6 +20,10 @@ Reto 10
 
 3) Hacer un algoritmo que deje al final de un arreglo de números todos los ceros que aparecieron en dicho arreglo.
 
+
+![Punto 3, reto 10](https://github.com/SantiagoGalindoHernandez19/Reto-10/assets/124641609/3bff854c-8dee-49d8-9609-fda1a5bf94e1)
+
+
 ---
 
 4) Revisar que son los algoritmos de sorting , entender bubble-sort ( enlace a implementación).

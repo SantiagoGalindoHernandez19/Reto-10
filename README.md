@@ -12,6 +12,10 @@ Reto 10
 
 2) Desarrolle un algoritmo que calcule el producto punto de dos arreglos de números enteros (reales) de igual tamaño.
 
+
+![Punto 2, reto 10](https://github.com/SantiagoGalindoHernandez19/Reto-10/assets/124641609/f1ed41bd-e30b-4d90-b1d6-1357496bef38)
+
+
 ---
 
 3) Hacer un algoritmo que deje al final de un arreglo de números todos los ceros que aparecieron en dicho arreglo.
